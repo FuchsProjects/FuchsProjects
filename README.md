@@ -9,12 +9,18 @@ CV: https://bityli.com/7Vt12
 
 ### --------------------------------------------------------------------------------------------------------------------
 
-Estou Estudando as Linguagens:
+Estou Estudando as Linguagens com foco em Python:
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+
+FrameWorks:
+
+[![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)]()
+[![VS-Code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)]()
+
 
 
 Estou estudando através da Dio.me e do Curso em Video do Guanabara e também com pesquisas no Google.
